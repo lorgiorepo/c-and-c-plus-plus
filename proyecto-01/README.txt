@@ -31,7 +31,7 @@ $ make executable-file-name
 Los archivos en C++ tienen la extension *.C, estos pueden ser compilados de la siguiente forma:
 
 1. usando g++
-$ g++ program-soruce-code.C -o executable-file-name
+$ g++ program-source-code.C -o executable-file-name
 2. usando make
 $ make executable-file-name
 
